@@ -18,4 +18,16 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [https://developer.ibm.com/articles/mo-bestdevops-mobileapps/](https://developer.ibm.com/articles/mo-bestdevops-mobileapps/)
 
 ## Talks
+
 - [The Pain of Mobile Release Engineering at Scale](https://www.usenix.org/conference/ures14west/summit-program/presentation/legnitto)
+
+### CI
+- [GOTO 2018 • 40 Jenkins Features & Plugins You Wished You had Known about Before! • Joep Weijers](https://www.youtube.com/watch?v=3dYM0XUrXHc&t=852s)
+
+### iOS
+- [Behind the Scenes of the Xcode Build Process - WWDC 2018](https://developer.apple.com/wwdc18/415)
+- [UI Testing Infrastructure in Avito - Vladislav Alexeev](https://vimeo.com/292738016)
+- [Understanding code signing: x509 and Apple - Marin Usalj](https://vimeo.com/235055677)
+- [Mobile Continuous Integration at SoundCloud - Vincent Garrigues](https://vimeo.com/148602000)
+- [DevOps in the iOS world - Piet Brauer](https://vimeo.com/146752761)
+- [Automating Your App’s Release Process Using Fastlane (Firebase Dev Summit 2017)](https://www.youtube.com/watch?v=scfOk5SgrKU)
