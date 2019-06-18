@@ -17,3 +17,4 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [How Etsy Ships Apps](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/)
 
 ## Talks
+- [The Pain of Mobile Release Engineering at Scale](https://www.usenix.org/conference/ures14west/summit-program/presentation/legnitto)
