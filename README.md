@@ -15,6 +15,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Mobile Tophatting at Shopify](https://engineering.shopify.com/blogs/engineering/mobile-tophatting-at-shopify-1)
 - [Realtime Mobile Performance Logging](https://medium.com/spaceapetech/realtime-mobile-performance-logging-1e319277d970)
 - [How Etsy Ships Apps](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/)
+- [https://developer.ibm.com/articles/mo-bestdevops-mobileapps/](https://developer.ibm.com/articles/mo-bestdevops-mobileapps/)
 
 ## Talks
 - [The Pain of Mobile Release Engineering at Scale](https://www.usenix.org/conference/ures14west/summit-program/presentation/legnitto)
