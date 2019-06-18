@@ -14,5 +14,6 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Scaling iOS CI with Anka](https://engineering.shopify.com/blogs/engineering/scaling-ios-ci-with-anka)
 - [Mobile Tophatting at Shopify](https://engineering.shopify.com/blogs/engineering/mobile-tophatting-at-shopify-1)
 - [Realtime Mobile Performance Logging](https://medium.com/spaceapetech/realtime-mobile-performance-logging-1e319277d970)
+- [How Etsy Ships Apps](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/)
 
 ## Talks
