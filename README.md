@@ -22,7 +22,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [The Pain of Mobile Release Engineering at Scale](https://www.usenix.org/conference/ures14west/summit-program/presentation/legnitto)
 
 ### CI
-- [GOTO 2018 • 40 Jenkins Features & Plugins You Wished You had Known about Before! • Joep Weijers](https://www.youtube.com/watch?v=3dYM0XUrXHc&t=852s)
+- [GOTO 2018 • 40 Jenkins Features & Plugins You Wished You had Known about Before! • Joep Weijers](https://www.youtube.com/watch?v=3dYM0XUrXHc)
 
 ### iOS
 - [Behind the Scenes of the Xcode Build Process - WWDC 2018](https://developer.apple.com/wwdc18/415)
