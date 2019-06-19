@@ -31,3 +31,6 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Mobile Continuous Integration at SoundCloud - Vincent Garrigues](https://vimeo.com/148602000)
 - [DevOps in the iOS world - Piet Brauer](https://vimeo.com/146752761)
 - [Automating Your App’s Release Process Using Fastlane (Firebase Dev Summit 2017)](https://www.youtube.com/watch?v=scfOk5SgrKU)
+
+## Slack
+- [Dev Productivity](https://dev-productivity.slack.com/)
