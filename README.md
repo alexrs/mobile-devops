@@ -60,6 +60,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Go CD](https://www.gocd.org)
 - [MS App Center](https://appcenter.ms)
 - [Azure DevOps Server](https://azure.microsoft.com/en-in/services/devops/server/)
+- [MacStadium](https://www.macstadium.com/)
 
 ### VCS / SCM
 
@@ -86,6 +87,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Bazel](https://bazel.build)
 - [CMake](https://cmake.org)
 - [Ansible](https://www.ansible.com)
+- [Anka](https://veertu.com/)
 
 ### Devices Farm
 
