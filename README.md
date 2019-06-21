@@ -16,6 +16,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Realtime Mobile Performance Logging](https://medium.com/spaceapetech/realtime-mobile-performance-logging-1e319277d970)
 - [How Etsy Ships Apps](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/)
 - [DevOps for mobile apps challenges and best practices](https://developer.ibm.com/articles/mo-bestdevops-mobileapps/)
+- [Release Quality and Mobile Trains: SoundCloud releases](https://developers.soundcloud.com/blog/quality-mobile-trains)
 
 ## Talks
 
