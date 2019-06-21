@@ -32,5 +32,61 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [DevOps in the iOS world - Piet Brauer](https://vimeo.com/146752761)
 - [Automating Your App’s Release Process Using Fastlane (Firebase Dev Summit 2017)](https://www.youtube.com/watch?v=scfOk5SgrKU)
 
+### Android
+
+- [DevOps on Android: From one git push to a Play Store release - Jeremie Martinez](https://www.youtube.com/watch?v=O58yq8B3shc)
+- [Lightweight Mobile DevOps - GCP (Cloud Next '18)](https://www.youtube.com/watch?v=24wOb22sIK0)
+
 ## Slack
 - [Dev Productivity](https://dev-productivity.slack.com/)
+
+## Tools
+
+### CI
+- [Jenkins](https://jenkins.io)
+- [Travis](https://travis-ci.org)
+- [Buildkite](https://buildkite.com)
+- [TeamCity](https://www.jetbrains.com/teamcity/)
+- [Bamboo](https://www.atlassian.com/software/bamboo)
+- [Gitlab CI](https://docs.gitlab.com/ee/ci/)
+- [Circle CI](https://circleci.com)
+- [Bitrise](https://www.bitrise.io)
+- [Go CD](https://www.gocd.org)
+- [MS App Center](https://appcenter.ms)
+- [Azure DevOps Server](https://azure.microsoft.com/en-in/services/devops/server/)
+
+### VCS / SCM
+
+- [Github](https://github.com)
+- [Gitlab](https://gitlab.com)
+- [Bitbucket](http://bitbucket.org)
+- [Azure DevOps Server](https://azure.microsoft.com/en-in/services/devops/server)
+- [Mercurial](https://www.mercurial-scm.org)
+- [Phabricator](https://www.phacility.com)
+- [Beanstalk App](https://beanstalkapp.com)  
+- [PerForce](https://www.perforce.com)
+- [SVN - subversion](https://subversion.apache.org)
+- [AWS CodeCommit](https://aws.amazon.com/codecommit)
+
+### Toolkit or Libraries
+
+- [Fastlane](https://fastlane.tools)
+- [Gradle](http://gradle.org)
+- [Danger](https://danger.systems)
+- [Tuist](https://tuist.io)
+- [Code Climate](https://codeclimate.com)
+- [Genymotion](https://www.genymotion.com)
+- [Buck](https://buck.build)
+- [Bazel](https://bazel.build)
+- [CMake](https://cmake.org)
+- [Ansible](https://www.ansible.com)
+
+### Devices Farm
+
+- [Test Lab](https://firebase.google.com/docs/test-lab)
+- [Amazon Device Farm](https://aws.amazon.com/device-farm)
+- [MS App Center](https://visualstudio.microsoft.com/app-center/)
+- [Genymotion](https://www.genymotion.com)
+- [Samsung Remote Test Lab](https://developer.samsung.com/rtlLanding.do)
+- [Perfecto](https://www.perfecto.io)
+- [SauceLabs](https://saucelabs.com)
