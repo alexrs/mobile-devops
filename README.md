@@ -19,7 +19,7 @@ Request editing this file and we will add them. Before contributing, take a few 
 - [Release Quality and Mobile Trains: SoundCloud releases](https://developers.soundcloud.com/blog/quality-mobile-trains)
 
 ## Talks
-
+- [Orchestrating mobile app releases](https://www.youtube.com/watch?v=VZBqaEnUhxE)
 - [The Pain of Mobile Release Engineering at Scale](https://www.usenix.org/conference/ures14west/summit-program/presentation/legnitto)
 
 ### CI
